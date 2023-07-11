@@ -17,6 +17,8 @@ public class ArraysAreEqual {
     public static void main(String [] args){
         
     }
+
+    
     public boolean equal(int[] a, int[] b){
         if(a.length != b.length){
             return false;
